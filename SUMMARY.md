@@ -2,9 +2,9 @@
 
 * [EaseCation文档中心](README.md)
 
-## 总则
+## 总则 <a id="basic-rule"></a>
 
-* [Untitled](zong-ze/untitled.md)
+* [基础介绍&定义](basic-rule/basic-info-and-defination.md)
 
 ## 协管组 <a id="helper"></a>
 
